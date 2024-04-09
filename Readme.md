@@ -1,6 +1,6 @@
 # Algorithms
 Module-1:
-- [ ] Read Chapter 1:
+- [x] Read Chapter 1:
   - [ ] Section 1.1: What is an Algorithm?
   - [ ] Section 1.2: Fundamentals of Algorithmic Problem Solving
 - [ ] Read Chapter 2:
