@@ -51,7 +51,7 @@ Module-1:
 **3. Counting Basic Operations:** We count how many times this basic operation happens for a given input size nn. This helps us understand the algorithm's efficiency.
 
 **4. Estimating Running Time:** We can estimate how long the algorithm will take to run on a particular computer by multiplying the time it takes to do one basic operation ($c_{op}$) by the number of times the basic operation is executed $C(n)$. So, $T(n)$, the total running time, is approximately $$c_{op}×C(n)$$
-**5. Applying the Formula:** For example, if $$C(n)=\frac{1}{2}n(n−1)$$and we want to know how much longer the algorithm will take if we double the input size (n becomes 2n), we can use the formula. We find that $$\frac{T(2n)}{T(n)}$$​ is approximately 4, which means it will take about four times longer. We don't even need to know the exact value of $c_{op}$ it cancels out in the ratio.
+**5. Applying the Formula:** For example, if $$C(n)=\frac{1}{2}n(n−1)$$ and we want to know how much longer the algorithm will take if we double the input size (n becomes 2n), we can use the formula. We find that $$\frac{T(2n)}{T(n)}$$​ is approximately 4, which means it will take about four times longer. We don't even need to know the exact value of $c_{op}$ it cancels out in the ratio.
 
 **6. Ignoring Constants:** We often ignore constants like $c_{op}$ and $\frac{1}{2}$ in $$C(n) = \frac{1}{2} n(n-1)$$ This is because they don't affect the growth rate of the algorithm for large inputs. We're more interested in how the count changes as n gets bigger, rather than the exact numbers.
 
