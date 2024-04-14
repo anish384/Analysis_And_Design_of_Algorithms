@@ -89,7 +89,7 @@ In summary, how algorithms grow in relation to input size is crucial for underst
 In many algorithms running time depends not only on an input size but also on the specifics of a particular input.
 ###### Ex. Sequential Search
 ---
-![](images/Screenshot 2024-04-14 190905.png)
+![](images/Screenshot%202024-04-14%20190905.png)
 
 ---
 **1. Worst-Case Efficiency:**
