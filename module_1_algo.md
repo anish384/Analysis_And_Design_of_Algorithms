@@ -64,7 +64,7 @@ So, in a nutshell, this approach helps us understand how the algorithm's efficie
 
 **2. Focus on Large Inputs:** The real distinction between efficient and inefficient algorithms becomes clear and important when we deal with large inputs. That's when we care about the order of growth of a function.
 
-![[Screenshot 2024-04-14 185607.png]]
+![[Screenshot 2024-04-14 185607.png?raw=true]]
 
 **3. Table of Functions:** In Table 2.1, we see different functions and how they grow as the input size increases. The slowest-growing function is logarithmic, which grows so slowly that even for large inputs, algorithms based on it run super fast.
 
