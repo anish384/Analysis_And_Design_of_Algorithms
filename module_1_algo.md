@@ -114,7 +114,7 @@ In many algorithms running time depends not only on an input size but also on th
 	- If the search is successful, the probability of finding the item in the $i^{th}$ position is $\frac{p}{n}$​, and the number of comparisons is i.
 - If the search fails, the algorithm will have to check all n elements, which happens with a probability of $(1−p)$.
 - We use these probabilities to calculate the average number of comparisons using a weighted average formula.
-- The formula for $C_{avg}(n))$ is $$ \frac{p(n+1)}{2} + n(1+p)  $$
+- The formula for $C_{avg}(n))$  is  $$\frac{p(n+1)}{2} + n(1+p)$$
 - For example, if p=1 (guaranteed successful search), $C_{avg}(n)=\frac{n+1}{2}$, meaning the algorithm inspects about half the list's elements on average.
 - If p=0 (guaranteed unsuccessful search), $C_{avg}(n)=n$, because the algorithm inspects all n elements.
 
