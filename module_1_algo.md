@@ -17,7 +17,7 @@ Module-1:
             § Section 3.3: Brute Force String Matching
 ```
 
-# C++ Codes
+# C++ Code
 ---
 ## Sieve of Eratosthenes
 ---
