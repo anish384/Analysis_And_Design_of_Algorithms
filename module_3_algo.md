@@ -10,3 +10,10 @@ Module-3:
 			§ Section 7.2: Input Enhancement in String Matching: Horspool’s Algorithm
 ```
 ---
+
+### Heaps and Heapsort
+---
+
+```c 
+
+```
